@@ -15,4 +15,4 @@ const hello = [
 // math function take 
 // a function as a parameter and that function how many parameter will accept 
 const greeting  = hello.map((index) => index).join(" ");
-console.log(greeting);
+// console.log(greeting);
